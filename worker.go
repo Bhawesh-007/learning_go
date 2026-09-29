@@ -12,7 +12,7 @@ func main(){
 	 //form 1 to 1e9 lets do
 	 for i := 1 ; i<=60 ; i++{
 	 	 fmt.Println("Running process .. ", i);
-	 	 time.Sleep(1*time.Svecond);
+	 	 time.Sleep(1*time.Second);
 	 } 
 
 
